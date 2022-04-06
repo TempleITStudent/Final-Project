@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+A game that involves the user controlling a snake and completing simple objectives, or a space invader type game.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+None.
 
 ## Do you have any questions of your own?
 
-TODO
+None.
